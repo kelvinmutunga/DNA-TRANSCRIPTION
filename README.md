@@ -1,1 +1,2 @@
 Using Biopython, you can swiftly transcribe DNA sequences into RNA. By importing the necessary modules and invoking the transcription function, you can seamlessly convert the genetic code. Biopython offers a user-friendly interface and comprehensive documentation, facilitating efficient manipulation of genetic data. With just a few lines of code, you can unlock the power of transcriptional analysis in your genomic research endeavors.
+![DNA](https://github.com/kelvinmutunga/DNA-TRANSCRIPTION/assets/90402507/efe03b91-7a47-46cf-8fba-46d2af1236ec)
